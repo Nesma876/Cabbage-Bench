@@ -2,7 +2,7 @@
 
 ## ZENODO
 
-Statut : brouillon non créé ; archives et métadonnées prêtes, publication en attente d'autorisation  
+Statut : brouillon non créé ; authentification Zenodo requise, archives et métadonnées prêtes  
 DOI de version : DOI non publié  
 DOI conceptuel, si disponible : DOI non publié  
 URL publique : non disponible  
