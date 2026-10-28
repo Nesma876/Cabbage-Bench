@@ -12,10 +12,10 @@ SHA-256 du TGZ : `57e2f5f70326a044c266852ed546672936b0d37ae6b9e83fb4f50ecfb93481
 
 ## GITHUB
 
-Statut : pas de git  
+Statut : dépôt Git local préparé; aucun remote public  
 URL : non disponible  
-Branche : non disponible  
-Commit SHA : non disponible  
+Branche : `main`  
+Commit SHA : `08d1b44e81172e7fd0273ce65285def8ad2862e4` (commit de contenu de release)  
 Version / tag : pas d'étiquette  
 URL release : non disponible
 
