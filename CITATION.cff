@@ -6,6 +6,11 @@ version: 1.0.0
 date-released: 2026-10-28
 repository-code: "https://github.com/Nesma876/Cabbage-Bench"
 url: "https://github.com/Nesma876/Cabbage-Bench"
+doi: "10.5281/zenodo.23732198"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23732198"
+    description: "CABBAGE-Bench version 1.0.0 dataset record"
 authors:
   - family-names: "Hamza Cherif"
     given-names: "Souaad"

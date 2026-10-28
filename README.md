@@ -118,8 +118,11 @@ whole chain run offline.
 ## Data
 
 Label matrices, feature matrices and split indices are prepared for a single
-Zenodo record. The verified DOI, archive names, byte sizes and SHA-256 values
-are recorded here once that record is public.
+Zenodo record: <https://doi.org/10.5281/zenodo.23732198>. Version 1.0.0
+contains exactly `cabbage-bench-depot.zip` (code, documentation and archived
+result tables) and `cabbage-bench-donnees.tgz` (derived benchmark data). The
+data archive is 73,396,037 bytes and has SHA-256
+`57e2f5f70326a044c266852ed546672936b0d37ae6b9e83fb4f50ecfb9348171`.
 
 To validate an extracted data archive and the checked-in result tables:
 
@@ -138,9 +141,10 @@ benchmark construction, the splits and the analysis.
 
 ## Citing
 
-Hamza Cherif S., Settouti N. *CABBAGE-Bench: an ML-ready, shift-aware
-benchmark for genotype-to-phenotype antimicrobial resistance prediction.*
-Preprint, 2026.
+Hamza Cherif S., Settouti N. (2026). *CABBAGE-Bench: an ML-ready,
+shift-aware benchmark for genotype-to-phenotype antimicrobial resistance
+prediction* (Version 1.0.0) [Dataset]. Zenodo.
+<https://doi.org/10.5281/zenodo.23732198>.
 
 ## Licence
 

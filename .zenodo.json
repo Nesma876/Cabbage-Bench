@@ -27,12 +27,19 @@
   "language": "eng",
   "version": "1.0.0",
   "repository": "https://github.com/Nesma876/Cabbage-Bench",
+  "doi": "10.5281/zenodo.23732198",
   "related_identifiers": [
     {
       "relation": "isDerivedFrom",
       "identifier": "https://ftp.ebi.ac.uk/pub/databases/amr_portal/releases/",
       "scheme": "url",
       "resource_type": "dataset"
+    },
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/Nesma876/Cabbage-Bench/tree/v1.0.0",
+      "scheme": "url",
+      "resource_type": "software"
     }
   ]
 }

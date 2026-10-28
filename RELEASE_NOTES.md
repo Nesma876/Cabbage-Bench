@@ -1,8 +1,10 @@
-# CABBAGE-Bench v1.0.0 -- proposed release
+# CABBAGE-Bench v1.0.0
 
-Status: final archive prepared locally; not tagged or published.
+Official first scientific release. Repository:
+<https://github.com/Nesma876/Cabbage-Bench/tree/v1.0.0>. Dataset DOI:
+<https://doi.org/10.5281/zenodo.23732198>.
 
-This proposed first scientific release contains the benchmark construction
+This first scientific release contains the benchmark construction
 and evaluation code, five analysis scripts, HPC launch material, archived
 result tables, documentation, a citation file, and an executable release
 validator. The companion Zenodo record is intended to contain exactly
