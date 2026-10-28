@@ -121,6 +121,7 @@ Label matrices, feature matrices and split indices are prepared for a single
 Zenodo record: <https://doi.org/10.5281/zenodo.23732198>. Version 1.0.0
 contains exactly `cabbage-bench-depot.zip` (code, documentation and archived
 result tables) and `cabbage-bench-donnees.tgz` (derived benchmark data). The
+concept DOI for all versions is <https://doi.org/10.5281/zenodo.23732197>. The
 data archive is 73,396,037 bytes and has SHA-256
 `57e2f5f70326a044c266852ed546672936b0d37ae6b9e83fb4f50ecfb9348171`.
 
