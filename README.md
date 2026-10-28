@@ -1,5 +1,7 @@
 # CABBAGE-Bench
 
+Repository: <https://github.com/Nesma876/Cabbage-Bench>
+
 An ML-ready, multi-label, shift-aware benchmark for genotype-to-phenotype
 antimicrobial resistance prediction, built on the CABBAGE database
 (EMBL-EBI AMR Portal, release `2025-11`).
@@ -116,9 +118,8 @@ whole chain run offline.
 ## Data
 
 Label matrices, feature matrices and split indices are prepared for a single
-Zenodo record. No DOI is public yet; do not cite an unverified placeholder.
-After publication, the exact archive name, byte size, SHA-256 and DOI will be
-added here.
+Zenodo record. The verified DOI, archive names, byte sizes and SHA-256 values
+are recorded here once that record is public.
 
 To validate an extracted data archive and the checked-in result tables:
 

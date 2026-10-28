@@ -3,6 +3,9 @@ message: "If you use CABBAGE-Bench, please cite this software and the accompanyi
 title: "CABBAGE-Bench: an ML-ready, shift-aware benchmark for genotype-to-phenotype antimicrobial resistance prediction"
 type: software
 version: 1.0.0
+date-released: 2026-10-28
+repository-code: "https://github.com/Nesma876/Cabbage-Bench"
+url: "https://github.com/Nesma876/Cabbage-Bench"
 authors:
   - family-names: "Hamza Cherif"
     given-names: "Souaad"

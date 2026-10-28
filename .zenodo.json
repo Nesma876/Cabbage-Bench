@@ -25,6 +25,8 @@
   "license": "cc-by-4.0",
   "access_right": "open",
   "language": "eng",
+  "version": "1.0.0",
+  "repository": "https://github.com/Nesma876/Cabbage-Bench",
   "related_identifiers": [
     {
       "relation": "isDerivedFrom",
