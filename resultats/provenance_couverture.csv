@@ -1,0 +1,15 @@
+espece,colonne,couverture_pct,modalites
+pseudomonas_aeruginosa,isolation_source,43.0,129
+pseudomonas_aeruginosa,isolation_source_category,50.6,10
+pseudomonas_aeruginosa,AMR_associated_publications,71.6,14
+pseudomonas_aeruginosa,database,100.0,7
+pseudomonas_aeruginosa,ast_standard,89.0,2
+pseudomonas_aeruginosa,laboratory_typing_method,63.3,3
+pseudomonas_aeruginosa,platform,27.1,4
+klebsiella_pneumoniae,isolation_source,80.6,349
+klebsiella_pneumoniae,isolation_source_category,84.4,12
+klebsiella_pneumoniae,AMR_associated_publications,84.5,49
+klebsiella_pneumoniae,database,100.0,13
+klebsiella_pneumoniae,ast_standard,66.4,2
+klebsiella_pneumoniae,laboratory_typing_method,89.6,4
+klebsiella_pneumoniae,platform,48.2,4

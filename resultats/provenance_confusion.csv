@@ -1,0 +1,12 @@
+espece,colonne,cramer_v,n
+pseudomonas_aeruginosa,isolation_source_category,0.206,846
+pseudomonas_aeruginosa,AMR_associated_publications,0.657,1118
+pseudomonas_aeruginosa,database,0.271,1293
+pseudomonas_aeruginosa,ast_standard,0.462,1111
+pseudomonas_aeruginosa,laboratory_typing_method,0.494,938
+klebsiella_pneumoniae,isolation_source,0.625,6722
+klebsiella_pneumoniae,isolation_source_category,0.248,7047
+klebsiella_pneumoniae,AMR_associated_publications,0.96,6989
+klebsiella_pneumoniae,database,0.433,8247
+klebsiella_pneumoniae,ast_standard,0.758,5508
+klebsiella_pneumoniae,laboratory_typing_method,0.262,7367

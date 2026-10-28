@@ -1,0 +1,36 @@
+{
+  "title": "CABBAGE-Bench: an ML-ready, shift-aware benchmark for genotype-to-phenotype antimicrobial resistance prediction",
+  "upload_type": "dataset",
+  "description": "Benchmark construction code, evaluation protocols and result files for CABBAGE-Bench, derived from the CABBAGE genotype-phenotype database (EMBL-EBI AMR Portal, release 2025-11). Six priority species, 61247 isolates, four evaluation protocols (random, lineage-aware, geography-aware, time-aware), three genomic representations (resistance catalogue, annotated gene content, de novo orthologue families) and four baseline families including an internal rule-based comparator. This single versioned record contains exactly two archives: the MIT-licensed construction and analysis code with result tables, and the CC BY 4.0 derived data containing masked label matrices, feature matrices, lineage assignments and fixed split indices. The derived material selects, filters and transforms CABBAGE data; the upstream tables, assemblies and annotations are not redistributed.",
+  "creators": [
+    {
+      "name": "Hamza Cherif, Souaad",
+      "affiliation": "Biomedical Engineering Laboratory, University of Tlemcen, Tlemcen, Algeria"
+    },
+    {
+      "name": "Settouti, Nesma",
+      "affiliation": "LabISEN, ISEN Yncréa Ouest, Caen, France"
+    }
+  ],
+  "keywords": [
+    "antimicrobial resistance",
+    "benchmark",
+    "multi-label classification",
+    "distribution shift",
+    "genomic surveillance",
+    "machine learning",
+    "bacterial genomics",
+    "data leakage"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "https://ftp.ebi.ac.uk/pub/databases/amr_portal/releases/",
+      "scheme": "url",
+      "resource_type": "dataset"
+    }
+  ]
+}

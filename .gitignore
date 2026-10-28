@@ -1,0 +1,15 @@
+work/
+inputs/
+analysis_output/
+release/
+publication/
+main_BIB_submission.tex
+main_BIB_submission.pdf
+supplementary_BIB_submission.tex
+supplementary_BIB_submission.pdf
+*.pyc
+__pycache__/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
